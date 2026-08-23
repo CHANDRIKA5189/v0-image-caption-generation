@@ -1,30 +1,22 @@
-# Image caption generation
+# Image Caption Generation
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/cbhattacharya950-gmailcoms-projects/v0-image-caption-generation)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/n9oBDOMVJVR)
+A vision-language project for generating natural-language descriptions of images, demonstrating the intersection of computer vision, deep learning and language generation.
 
 ## Overview
+The project explores an image-to-text workflow in which visual information is processed and converted into human-readable captions. The repository is connected to a deployed v0/Vercel application.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Focus Areas
+- Computer vision
+- Image understanding
+- Deep learning
+- Vision-language generation
+- Natural-language generation
 
 ## Deployment
+The project is deployed through Vercel and synced from the v0 workflow.
 
-Your project is live at:
+## Portfolio
+https://chandrika5189.github.io/chandrika-portfolio/
 
-**[https://vercel.com/cbhattacharya950-gmailcoms-projects/v0-image-caption-generation](https://vercel.com/cbhattacharya950-gmailcoms-projects/v0-image-caption-generation)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/n9oBDOMVJVR](https://v0.app/chat/n9oBDOMVJVR)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## Author
+**Chandrika Bhattacharya** — Data Scientist | AI/ML Engineer
